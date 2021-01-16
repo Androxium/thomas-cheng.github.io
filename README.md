@@ -1,1 +1,1 @@
-# Github repo for me personal website
+# Github repo for my personal website
