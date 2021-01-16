@@ -1,5 +1,11 @@
+body {
+    background: #f2f2f2;
+    margin: 0 30px
+}
+
 p {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
     font-size: 18px;
 }
 
